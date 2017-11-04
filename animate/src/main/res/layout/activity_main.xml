@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<include layout="@layout/toolbar"/>
+    <Button
+    android:layout_margin="5dp"
+    android:id="@+id/bt_am_object_anim"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="属性动画"></Button>
+    <Button
+        android:layout_margin="5dp"
+        android:id="@+id/bt_am_frame_anim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="帧动画"></Button>
+    <Button
+        android:layout_margin="5dp"
+        android:id="@+id/bt_am_tween_anim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="补间动画"></Button>
+
+
+</LinearLayout>

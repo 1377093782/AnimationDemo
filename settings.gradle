@@ -1,0 +1,1 @@
+include ':app', ':appvideo', ':animate', ':brokenview', ':brokenApp'
