@@ -83,7 +83,7 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
         formView.post(new Runnable() {
             @Override
             public void run() {
-                int delta = formView.getTop()+formView.getHeight();
+                int delta = formView.getTop() + formView.getHeight();
                 formView.setTranslationY(-1 * delta);
             }
         });
@@ -108,7 +108,7 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
     }
 
     private void playAnim() {
-        ObjectAnimator anim = ObjectAnimator.ofFloat(appName, "alpha", 0,1);
+        ObjectAnimator anim = ObjectAnimator.ofFloat(appName, "alpha", 0, 1);
         anim.setDuration(4000);
         anim.setRepeatCount(1);
         anim.setRepeatMode(ObjectAnimator.REVERSE);
@@ -151,7 +151,7 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
 
     @Override
     public void onClick(View view) {
-        int delta = formView.getTop()+formView.getHeight();
+        int delta = formView.getTop() + formView.getHeight();
         switch (inputType) {
             case NONE:
 
@@ -171,11 +171,14 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
 
                 formView.animate().translationY(-1 * delta).alpha(0).setDuration(500).start();
                 if (view == buttonLeft) {
-                    if(formView.onPasswordIsTrue()){
-                        SpUtils.putBoolean("is_login_sucess",true);
+                    if (formView.onPasswordIsTrue()) {
+                        SpUtils.putBoolean("is_login_sucess", true);
                         startActivity(new Intent(this, ValueAnimActivity.class));
-                       finish();
-                    }else {
+                        finish();
+                    } else {
+                        ObjectAnimator anim = ObjectAnimator.ofFloat(buttonLeft, "translationX", -20, 20, -10, 10, -5, 5, 0);
+                        anim.setDuration(1000);
+                        anim.start();
                         ToastUtils.showToast("密码错误,你可能忘了公司的wifi密码！");
                     }
                 } else if (view == buttonRight) {
@@ -202,4 +205,5 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
     enum InputType {
         NONE, LOGIN, SIGN_UP;
     }
+
 }

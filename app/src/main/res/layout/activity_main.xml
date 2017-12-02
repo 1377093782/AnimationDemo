@@ -4,12 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/holo_red_dark"
     android:orientation="vertical">
-
-    <Button
-        android:id="@+id/tv_am_begin"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="开始"></Button>
+    <com.example.liuan.screenview.view.DoughnutProgress
+        android:id="@+id/view_progress"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="300dp" />
 
 </LinearLayout>

@@ -75,7 +75,8 @@ public class TextSwitcherView extends TextSwitcher implements ViewSwitcher.ViewF
     }  
   
     private void init() {  
-        this.setFactory(this);  
+        this.setFactory(this);
+
         this.setInAnimation(getContext(), R.anim.vcertical_in);
         this.setOutAnimation(getContext(), R.anim.vcertical_out);  
         Timer timer = new Timer();  

@@ -1,1 +1,4 @@
-include ':app', ':appvideo', ':animate', ':brokenview', ':brokenApp'
+include ':app', ':appvideo', ':animate', ':brokenview', ':brokenApp', ':library'
+include ':memoryCleaner'
+include ':library_zhy_progressbar'
+include ':sample_zhy_progressbar'

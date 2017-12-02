@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assist_flow_ball_green_clip.png",
+        "source": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\src\\main\\res\\drawable-hdpi\\assist_flow_ball_green_clip.png"
+    },
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flow_ball_ani_full_green.png",
+        "source": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\src\\main\\res\\drawable-hdpi\\flow_ball_ani_full_green.png"
+    },
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assist_flow_ball_green.png",
+        "source": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\src\\main\\res\\drawable-hdpi\\assist_flow_ball_green.png"
+    },
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\work\\Exercise\\MyApplication\\memoryCleaner\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

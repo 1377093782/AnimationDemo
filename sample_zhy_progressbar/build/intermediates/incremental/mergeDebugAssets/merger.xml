@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="default"><source path="D:\work\Exercise\MyApplication\library_zhy_progressbar\build\intermediates\bundles\default\assets"/></dataSet><dataSet config="main"><source path="D:\work\Exercise\MyApplication\sample_zhy_progressbar\src\main\assets"/><source path="D:\work\Exercise\MyApplication\sample_zhy_progressbar\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\work\Exercise\MyApplication\sample_zhy_progressbar\src\debug\assets"/></dataSet></merger>

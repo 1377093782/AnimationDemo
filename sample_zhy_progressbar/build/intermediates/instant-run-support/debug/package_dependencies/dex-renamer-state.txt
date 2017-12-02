@@ -1,0 +1,4 @@
+#Wed Nov 29 10:57:56 CST 2017
+base.0=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_a3d4d4dae771b4b7481c5d6b44c33161fae2bc91
+renamed.0=classes.dex
+file.0=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_a3d4d4dae771b4b7481c5d6b44c33161fae2bc91\\classes.dex

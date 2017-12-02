@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\merged\\debug\\drawable\\style_01.xml",
+        "source": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\default\\res\\drawable\\style_01.xml"
+    },
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\merged\\debug\\drawable\\style_02.xml",
+        "source": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\default\\res\\drawable\\style_02.xml"
+    },
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\merged\\debug\\drawable\\style_03.xml",
+        "source": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\default\\res\\drawable\\style_03.xml"
+    },
+    {
+        "merged": "D:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\merged\\debug\\drawable\\style_04.xml",
+        "source": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\default\\res\\drawable\\style_04.xml"
+    }
+]

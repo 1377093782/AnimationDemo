@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<device-admin
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+
+        <!--&lt;!&ndash; 锁定屏幕 &ndash;&gt;-->
+        <!--<force-lock/>-->
+        <!--&lt;!&ndash; 清除所有数据（恢复出厂设置） &ndash;&gt;-->
+        <!--<wipe-data/>-->
+        <!--&lt;!&ndash; 更改屏幕解锁密码 &ndash;&gt;-->
+        <!--<reset-password/>-->
+        <!--&lt;!&ndash; 设置密码规则 &ndash;&gt;-->
+        <!--<limit-password/>-->
+        <!--&lt;!&ndash; 监视屏幕解锁尝试次数 &ndash;&gt;-->
+        <!--<watch-login/>-->
+    </uses-policies>
+</device-admin>

@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 57,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 57,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 55,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 55,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 52,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 52,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 60,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 60,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 52,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 52,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1529
+                },
+                "from": {
+                    "file": "D:\\work\\Exercise\\MyApplication\\library_zhy_progressbar\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1529
+                    }
+                }
+            }
+        ]
+    }
+]

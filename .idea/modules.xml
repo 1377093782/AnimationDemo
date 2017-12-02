@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/appvideo/appvideo.iml" filepath="$PROJECT_DIR$/appvideo/appvideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/brokenApp/brokenApp.iml" filepath="$PROJECT_DIR$/brokenApp/brokenApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/brokenview/brokenview.iml" filepath="$PROJECT_DIR$/brokenview/brokenview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_zhy_progressbar/library_zhy_progressbar.iml" filepath="$PROJECT_DIR$/library_zhy_progressbar/library_zhy_progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memoryCleaner/memoryCleaner.iml" filepath="$PROJECT_DIR$/memoryCleaner/memoryCleaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample_zhy_progressbar/sample_zhy_progressbar.iml" filepath="$PROJECT_DIR$/sample_zhy_progressbar/sample_zhy_progressbar.iml" />
     </modules>
   </component>
 </project>

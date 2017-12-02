@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Nov 29 10:57:53 CST 2017
+2.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\style_03.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\style_01.xml
+5.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\style_02.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\roundbar.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+10.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\style_04.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\work\\Exercise\\MyApplication\\sample_zhy_progressbar\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

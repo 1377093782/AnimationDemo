@@ -13,6 +13,10 @@
             <option value="$PROJECT_DIR$/appvideo" />
             <option value="$PROJECT_DIR$/brokenApp" />
             <option value="$PROJECT_DIR$/brokenview" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/library_zhy_progressbar" />
+            <option value="$PROJECT_DIR$/memoryCleaner" />
+            <option value="$PROJECT_DIR$/sample_zhy_progressbar" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
